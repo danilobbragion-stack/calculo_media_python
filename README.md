@@ -37,4 +37,5 @@ Status: REPROVADO.
 **Autor e Contato**
 
 [Clique aqui para acessar o Linkedin](https://www.linkedin.com/in/danilobragion)
-
+[email](danilo.bbragion@gmail.com)
+ 
